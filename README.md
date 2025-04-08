@@ -98,8 +98,9 @@ The following permissions need to be declared in the `AndroidManifest.xml`:
    - View the calculated route
    - Start navigation by tapping on the route
 
-![Screenshot_20250408_152431.png](..%2F..%2F..%2Freport_11%2FScreenshot_20250408_152431.png)
-![Screenshot_20250408_152519.png](..%2F..%2F..%2Freport_11%2FScreenshot_20250408_152519.png)
+![Screenshot_20250408_152519](https://github.com/user-attachments/assets/bd6c7155-161a-4fcb-aab5-df3a2aa49343)
+![Screenshot_20250408_152431](https://github.com/user-attachments/assets/75f7feda-84f5-44b6-8e40-5d6a354d3c17)
+
 ## Troubleshooting
 
 - **API Key**: Verify your API key is correctly set in the `DemoApplication` class
