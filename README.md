@@ -97,9 +97,9 @@ The following permissions need to be declared in the `AndroidManifest.xml`:
    - Long press on the map to set a destination
    - View the calculated route
    - Start navigation by tapping on the route
-<img src="https://github.com/user-attachments/assets/bd6c7155-161a-4fcb-aab5-df3a2aa49343" width="300" style="margin-right: 10px;" />
-<img src="https://github.com/user-attachments/assets/75f7feda-84f5-44b6-8e40-5d6a354d3c17" width="300" />
-
+   - 
+<img src="https://github.com/user-attachments/assets/75f7feda-84f5-44b6-8e40-5d6a354d3c17" width="300" style="margin-right: 10px;"/>
+<img src="https://github.com/user-attachments/assets/bd6c7155-161a-4fcb-aab5-df3a2aa49343" width="300" />
 
 ## Troubleshooting
 
