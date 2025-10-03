@@ -306,10 +306,7 @@ internal fun RouteResultScreen(
                         Spacer(modifier = Modifier.height(8.dp))
                         Button(
                             onClick = {
-//                                val routeJsonList = currentState.routes.map { it.toJson() } // toJson is from the SDK
-//                                val routesJson = JSONArray(routeJsonList).toString()
-//                                val encodedRoutes = URLEncoder.encode(routesJson, "UTF-8")
-//                                navController.navigate("${DemoScreen.ComposeNavigation.route}?routes=$encodedRoutes")
+//
                                 val sharedPreferences =
                                     context.getSharedPreferences(Constants.KEY_SHARE_PREFERENCE, Context.MODE_PRIVATE)
                                 val simulation =
